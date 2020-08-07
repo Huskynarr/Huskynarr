@@ -1,15 +1,15 @@
 ### Who am i
 
-My name is Huskynarr and im from the black forest.
+My name is Huskynarr and i from the black forest.
 
 ### My Projects
 
-[**Only on request**](https://github.com/Huskynarr) — Only at request.  
+[**More than 10 Projects**](https://github.com/Huskynarr) — Only at request.  
 
 
 ### Social Media
 
-[View my personal website: **huskynarr.de**](https://huskynarr.de/)  
+[View my personal blog: **huskynarr.de**](https://huskynarr.de/)  
 [Follow me on twitter: **@huskynarr**](https://twitter.com/Huskynarr)
 
 <!--
