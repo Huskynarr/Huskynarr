@@ -1,6 +1,10 @@
 ### Who am i
 
-My name is Huskynarr and i from the black forest.
+<div align="center">
+  
+  <h3>My name is Huskynarr and i from the black forest.</h3>
+  
+</div>
 
 ### My Projects
 
