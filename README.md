@@ -4,7 +4,7 @@
   
 </div>
 
-  ![Banner](./profile-3d-contrib/profile-green.svg)
+  ![Banner](./profile-3d-contrib/profile-night-green.svg)
 
 
 
