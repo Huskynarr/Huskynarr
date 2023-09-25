@@ -14,6 +14,7 @@
 
 
 ### Social Media
+![](https://komarev.com/ghpvc/?username=huskynarr&color=6b8f24&style=plastic)
 
 [View my personal blog: **huskynarr.de**](https://huskynarr.de/)  
 [Follow me on twitter: **@huskynarr**](https://twitter.com/Huskynarr)
